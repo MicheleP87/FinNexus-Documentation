@@ -1,6 +1,6 @@
 # How to buy options on FPO v1.0
 
-1) Go to [options.finnexus.io](options.finnexus.io) and choose the blockchain from the top left of the page
+1) Go to [options.finnexus.io](options.finnexus.io) and choose the blockchain from the top left of the page.
 
 ![](https://i.imgur.com/oF0Xq7d.png)
 
@@ -8,16 +8,16 @@
 
 ![](https://i.imgur.com/dNRLlNS.png)
 
-3) Select the options' underlying asset
+3) Select the options' underlying asset.
 
 ![](https://i.imgur.com/CmOUa9x.png)
 
 4) Customize your options with your desired terms.
-For example, if you are choosing ETH options, find and choose/type in the options type, size, strike price, expiration and payment that may suit your needs.
+For example, if you are choosing ETH options, find and choose/type in the options type, size, strike price, expiration and payment that suit your needs.
 
 ![](https://i.imgur.com/pHvh4LW.png)
 
-5) The options price is shown in the 'cost' column below
+5) The options price is shown in the 'cost' column below.
 
 ![](https://i.imgur.com/rU1kmGo.png)
 
@@ -29,19 +29,19 @@ For example, if you are choosing ETH options, find and choose/type in the option
 
 ![](https://i.imgur.com/9tqIA0x.png)
 
-8) After confirming transactions in your wallet, you may need to wait for the pending transactions to be processed on-chain. The waiting time depends on the gas paid for the transaction fee and the current network conjunctions.
+8) After confirming a transaction in your wallet, you may need to wait for pending transactions to be processed on-chain. The waiting time depends on the gas paid for the transaction fee and the current network conjunctions.
 
 ![](https://i.imgur.com/rd4O9u4.png)
 
-9) When transactions are done, you can find your options on the 'options' page.
+9) When a transaction is completed, you can find your options on the 'options' page.
 
 ![](https://i.imgur.com/BZRSK5Y.png)
 
-10) You can choose to exercise your options anytime before expiration by pressing the 'EXERCISE' button, when options are [in the money](https://www.investopedia.com/terms/i/inthemoney.asp), provided it has passed the one-hour chill time.
+10) You can choose to exercise your options anytime before expiration by pressing the 'EXERCISE' button, as long as they are [in the money](https://www.investopedia.com/terms/i/inthemoney.asp) and the one-hour chill time has passed.
 
 ![](https://i.imgur.com/oGJt84Z.png)
 
-11) After pressing the 'EXERCISE' button, a pop-up will show the details of the settlement. By confirming the transaction, it will be processed on-chain.
+11) After pressing the 'EXERCISE' button, a pop-up will show the details of the settlement. As you confirm the transaction, the latter will be processed on-chain.
 
 ![](https://i.imgur.com/Zta36fF.png)
 
